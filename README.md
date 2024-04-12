@@ -13,6 +13,8 @@
 <h3 align="left">Languages and Tools:</h3>
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
+![Poetry](https://img.shields.io/badge/poetry-3670A0?style=for-the-badge&logo=poetry&logoColor=ffdd54) 
+![Pipenv](https://img.shields.io/badge/pipenv-blue?style=for-the-badge&logo=pipenv&logoColor=white)
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray) 
 ![Tkinter](https://img.shields.io/badge/tkinter-3670A0?style=for-the-badge&logo=tkinter&logoColor=ffdd54)
@@ -23,6 +25,6 @@
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=blue)
-![Git](https://img.shields.io/badge/git-%2300000f.svg?style=for-the-badge&logo=git&logoColor=orange)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) 
+![Git](https://img.shields.io/badge/git-%2300000f.svg?style=for-the-badge&logo=git&logoColor=orange)
 ![Linux](https://img.shields.io/badge/linux-%2300000f.svg?style=for-the-badge&logo=linux&logoColor=burgundy)
