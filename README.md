@@ -33,7 +33,7 @@ def main() {
 [linkedin]: https://www.linkedin.com/in/nasrat-nasim-0750a8262/
 <br>
 
-#### Sociai Networks
+#### Social network 
 
 <!-- 🏡 [website][website] **|**  -->
 📷 [instagram][instagram] **|** 
