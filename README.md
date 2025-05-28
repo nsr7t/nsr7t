@@ -30,7 +30,7 @@ def main() {
 <!-- <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a></h3> -->
 
 <!-- [website]: http://www.o2d.com.br/ -->
-[instagram]: https://www.instagram.com/__nasrat___/
+[instagram]: https://www.instagram.com/2.nasrat/
 [linkedin]: https://www.linkedin.com/in/nasrat-nasim-0750a8262/
 <br>
 
